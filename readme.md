@@ -1,6 +1,6 @@
 ![ticker](Ticker.jpg)
 
-Crypto Ticker based on Adafruit Matrix Portal M4 using Circuit Python.  No soldering needed, just plug together, load code and edit secrets.py for your wifi credentials.
+Crypto Ticker based on Adafruit Matrix Portal M4 using Circuit Python.  No soldering needed, just plug together, load code and edit secrets.py with your wifi credentials.
 
 Crypto prices retrieved from coingecko.com; easy to change code to other cryptos.
 
